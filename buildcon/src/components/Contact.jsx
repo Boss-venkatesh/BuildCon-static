@@ -28,7 +28,7 @@ const Contact = () => {
                                 <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" />
                               </div>
                               <div className="form-group">
-                                <label for="exampleFormControlTextarea1">Example textarea</label>
+                                <label for="exampleFormControlTextarea1">Message</label>
                                 <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                               </div>
                             <button type="submit" className="btn btn-warning w-100 py-1">Submit</button>
